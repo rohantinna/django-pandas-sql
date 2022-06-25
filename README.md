@@ -1,4 +1,4 @@
 # django-pandas-sql
 
-### TODOS
+### Todos
 * Add a requirements.txt file
